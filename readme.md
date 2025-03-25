@@ -66,11 +66,3 @@ Professional or humorous brochure? (p/h): p
 Save to file? (y/n): y
 Brochure saved to example_corp_brochure.md
 ```
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Your Name
